@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Authentication from './components/Authentication';
 import RegisterLandForm from './components/RegisterLandForm';
-import TransferOwnershipForm from './components/TransferOwnershipForm';
+import TransferOwnershipForm from './components/TransferLandForm';
 
 function App() {
   return (

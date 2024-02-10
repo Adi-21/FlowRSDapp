@@ -1,0 +1,17 @@
+{
+    "contracts": {
+      "LandRegistry": {
+        "address": "0x7684334a1e575ca0",
+        "source": "path/to/LandRegistry.cdc",
+        "hash": "0xabcde12345...",
+        "abi": {}
+      }
+    },
+    "accountStorage": {
+      "0x7684334a1e575ca0": {
+        "value1": "data1",
+        "value2": "data2"
+      }
+    }
+}
+  
